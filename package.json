@@ -1,0 +1,17 @@
+{
+  "name": "mobx-standalone-fundamentals-beginner__increment-decrement",
+  "version": "1.0.0",
+  "description": "mobx-standalone-fundamentals-beginner__increment-decrement",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "mobx": "^6.3.13",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
